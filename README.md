@@ -1,1 +1,3 @@
-# KDV-hesaplay-c-
+# KDV hesaplayici
+
+[Patika]( www.patika.dev)
